@@ -32,4 +32,5 @@ IG_UI_FR = {
 	IGUI_VehiclePartW460SWBDoorRearRightArmor = "Blindage arrière droit",
 	IGUI_VehiclePartW460Trunk = "Coffre",
 
+	IGUI_CraftCategory_W460 = "'84 Mercedes Benz W460",
 }
