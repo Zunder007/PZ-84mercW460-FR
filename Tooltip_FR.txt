@@ -1,0 +1,17 @@
+Tooltip_FR = {
+	Tooltip_item_W460NormalTires = "Pneus étroits W460 classique.",
+	Tooltip_item_W460WideTires = "Pneus larges W460 renforcés qui n'éclateront jamais mais perdront de la traction lorsqu'ils se dégraderont.",
+	Tooltip_item_W460ModernTires = "Pneus modernes W460 qui ont fière allure et ont une meilleure traction.",
+	Tooltip_item_W460Roofrack1 = "Espace de rangement supplémentaire sur le toit, accessible de tous les côtés du véhicule.",
+	Tooltip_item_W460Bodykit1 = "Article cosmétique, ajoute de larges passages de roues et des jupes latérales.",
+	Tooltip_item_W460FrontDoorArmor1 = "Fixez-le aux portières avant W460 pour protéger les portières et vitres avant.",
+	Tooltip_item_W460RearDoorArmor1 = "Fixez-le aux portières arrière du W460 pour protéger les portières et vitres arrière.",
+	Tooltip_item_W460SideWindow2 = "Vous pouvez utiliser un scalpel pour couper des vitres robustes ordinaires afin de remplacer les vitres W460.",
+	Tooltip_item_W460Windshield2 = "Vous pouvez utiliser un scalpel pour couper des pare-brise robustes ordinaires afin de remplacer le pare-brise W460.",
+	Tooltip_item_W460WindshieldArmor1 = "Fixez-le à l'avant du W460 pour protéger le pare-brise.",
+	Tooltip_item_W460WindshieldArmorRear1 = "Fixez-le à l'arrière du W460 pour protéger le pare-brise arrière et la fermeture du coffre.",
+	Tooltip_item_W460BackWindowArmor1 = "Article cosmétique, fixez-le sur les vitres les plus arrière du W460.",
+	Tooltip_item_W460Bumper1 = "Fixez-le à l'avant du W460 pour protéger le capot, les phares et le moteur.",
+	Tooltip_item_W460BumperRear1 = "Fixez-le à l'arrière du W460 pour protéger les feux de freinage.",
+	Tooltip_item_W460Mudflaps1 = "Article cosmétique, protège le gars derrière vous de la poussière et de la boue.",
+}
