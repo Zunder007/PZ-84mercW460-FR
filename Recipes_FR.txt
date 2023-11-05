@@ -1,0 +1,14 @@
+Recipes_FR = {
+	Recipe_Make_W460_Big_Bullbar = "Fabriquer Grand pare-buffle",
+	Recipe_Make_W460_Bullbar = "Fabriquer Pare-buffle",
+	Recipe_Make_W460_Front_Door_Armor = "Fabriquer Blindage de portière avant",
+	Recipe_Make_W460_Rear_Door_Armor = "Fabriquer Blindage de portière arrière",
+	Recipe_Make_W460_Rear_Windows_Armor = "Fabriquer Blindage de vitre arrière",
+	Recipe_Make_W460_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_W460_Rear_Windshield_Armor = "Fabriquer Blindage de pare-brise arrière",
+	Recipe_Make_W460_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_W460_Side_Window = "Fabriquer Vitre latérale",
+	Recipe_Make_W460_Wide_Tire = "Fabriquer Pneu large",
+	Recipe_Make_W460_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_W460_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+}
