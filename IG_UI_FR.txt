@@ -2,6 +2,26 @@ IG_UI_FR = {
 	IGUI_VehicleName84mercLWB2 = "'84 Mercedes-Benz W460 2-Portières LWB"
 	IGUI_VehicleName84mercLWB4 = "'84 Mercedes-Benz W460 4-Portières LWB"
 	IGUI_VehicleName84mercSWB = "'84 Mercedes-Benz W460 2-Portières SWB"
+    IGUI_VehicleName84mercLWB4M = "'84 Mercedes-Benz Militaire W460"
+
+	IGUI_VehiclePartW460Bodykit = "Kit carrosserie",
+    IGUI_VehiclePartW460Snorkel = "Admission d'air Tuba",
+    IGUI_VehiclePartW460Guards = "Protection de feux",
+    IGUI_VehiclePartW460GasCan = "Bidon d'essence militaire",
+	IGUI_VehiclePartW460BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartW460BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartW460Mudflaps = "Garde-boues",
+	IGUI_VehiclePartW460Roofrack = "Galerie de toit",
+	IGUI_VehiclePartW460SpareTire = "Pneu de secours",
+	IGUI_VehiclePartW460WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartW460WindshieldRearArmor = "Blindage de pare-brise arrière",
+	IGUI_VehiclePartW460DoorFrontLeftArmor = "Blindage de portière avant gauche",
+	IGUI_VehiclePartW460DoorFrontRightArmor = "Blindage de portière avant droite",
+	IGUI_VehiclePartW460DoorRearLeftArmor = "Blindage de portière arrière gauche",
+	IGUI_VehiclePartW460DoorRearRightArmor = "Blindage de portière arrière droite",
+    IGUI_VehiclePartW460WindowBackLeftArmor = "Blindage de vitre arrière gauche",
+	IGUI_VehiclePartW460WindowBackRightArmor = "Blindage de vitre arrière droite",
+	IGUI_VehiclePartW460Trunk = "Coffre",
 
 	IGUI_VehiclePartW460LWBBodykit = "Kit carrosserie",
 	IGUI_VehiclePartW460LWBBumper = "Pare-chocs avant",
@@ -16,7 +36,6 @@ IG_UI_FR = {
 	IGUI_VehiclePartW460LWBDoorFrontRightArmor = "Blindage de portière avant droite",
 	IGUI_VehiclePartW460LWBDoorRearLeftArmor = "Blindage de portière arrière gauche",
 	IGUI_VehiclePartW460LWBDoorRearRightArmor = "Blindage de portière arrière droite",
-	IGUI_VehiclePartW460Trunk = "Coffre",
 
 	IGUI_VehiclePartW460SWBBodykit = "Kit carrosserie",
 	IGUI_VehiclePartW460SWBBumper = "Pare-chocs avant",
