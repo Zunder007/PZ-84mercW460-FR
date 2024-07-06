@@ -27,4 +27,15 @@ ItemName_FR = {
 	ItemName_Base.W460Windshield2 = "W460 Pare-brise",
 	ItemName_Base.W460WindshieldArmor1_Item = "W460 Blindage de pare-brise",
 	ItemName_Base.W460WindshieldRearArmor1_Item = "W460 Blindage de pare-brise arrière",
+
+	ItemName_Base.W460BodykitM_Item = "84 Mercedes Benz Militaire W460 Kit carrosserie",
+	ItemName_Base.W460BullbarM_Item = "84 Mercedes Benz Militaire W460 Pare-buffle",
+	ItemName_Base.W460CarBackWindowArmor1_Item = "84 Mercedes Benz W460 Blindage de vitre arrière",
+	ItemName_Base.W460Guards_Item = "84 Mercedes Benz W460 Protection de feux",
+	ItemName_Base.W460MilitaryTire2 = "84 Mercedes Benz Militaire W460 Pneu",
+	ItemName_Base.W460RearSplitWindshield2 = "84 Mercedes Benz W460 Pare-brise arrière divisé",
+	ItemName_Base.W460RoofrackM_Item = "84 Mercedes Benz Militaire W460 Galerie de toit",
+	ItemName_Base.W460SnorkelM_Item = "84 Mercedes Benz W460 Admission d'air Tuba",
+	ItemName_Base.W460TrunkSplitDoor2 = "84 Mercedes Benz W460 Coffre divisé",
+	ItemName_Base.W460WindshieldRearArmorM_Item = "84 Mercedes Benz Militaire W460 Blindage de pare-brise arrière",
 }
