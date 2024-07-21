@@ -14,4 +14,6 @@ Tooltip_FR = {
 	Tooltip_item_W460Bumper1 = "Fixez-le à l'avant du W460 pour protéger le capot, les phares et le moteur.",
 	Tooltip_item_W460BumperRear1 = "Fixez-le à l'arrière du W460 pour protéger les feux de freinage.",
 	Tooltip_item_W460Mudflaps1 = "Article cosmétique, protège le gars derrière vous de la poussière et de la boue.",
+
+	Tooltip_item_W460onlyMilitary = "Cet objet ne peut être installé que sur la variante militaire!",
 }
