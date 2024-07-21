@@ -29,4 +29,6 @@ Recipes_FR = {
 	Recipe_Make_84_Mercedes_Benz_W460_Tire = "Fabriquer Pneu",
 	Recipe_Make_84_Mercedes_Benz_W460_Windshield_Armor = "Fabriquer Blindage de pare-brise",
 	Recipe_Repair_84_Mercedes_Benz_W460_Tire = "Réparer Pneu",
+
+	Recipe_Make_84_Mercedes_Benz_W460_Light_Guards = "Fabriquer Protections lumineuses",
 }
